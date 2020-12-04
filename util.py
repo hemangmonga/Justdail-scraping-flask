@@ -106,7 +106,7 @@ def get_details(link):
     # csvwriter.writerow(dict((fn,fn) for fn in fields))
     while True:
         # Check if reached end of result
-        if page_number > 2:
+        if page_number > 50:
             break
 
         # url = "https://www.justdial.com/Mumbai/Dietitians/nct-10161884/page-%s" % (page_number)
