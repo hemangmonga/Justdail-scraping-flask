@@ -1,4 +1,4 @@
-# Justdail-scrapping-flask
+# Justdail-scraping-flask
 
 This is a python web scrapping project done using python as a backend and html as frontend. for the project I have used beautifulsoup for scrapping data from the web and used flask to connect the python code to Html and run it on a local server.
 <br>
